@@ -1,0 +1,16 @@
+.Product_block {
+    border: 1px solid black;
+    margin: 10px;
+    border-radius: 15px;
+    padding: 10px;
+}
+.Product_block p {
+    width: 300px;
+}
+.discount {
+    border: 2px solid coral;
+    width: 80px;
+    height: 30px;
+    transform: skew(10deg);
+    padding: 4px;
+}

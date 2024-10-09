@@ -1,0 +1,12 @@
+.Products_page {
+    width: 98%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.Products_page {
+    border: 2px solid darkslateblue;
+    border-radius: 15px;
+    padding: 0;
+    margin-top: 6px;
+}
