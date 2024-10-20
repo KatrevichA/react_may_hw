@@ -17,7 +17,7 @@ const UserPostPage = () => {
             );
         }
 
-    }, []);
+    }, [id]);
 
 
     return (
