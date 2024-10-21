@@ -34,7 +34,7 @@ const RecipesPage = () => {
     return (
         <div>
             <Recipes recipes={recipes}/>
-            RecipesPage
+
             <Pagination flag={flag}/>
         </div>
     );
