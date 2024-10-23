@@ -1,0 +1,24 @@
+.formComp {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.formBord {
+    width: 250px;
+    border: 1px solid darkslateblue;
+    padding: 15px;
+}
+.formBord div {
+    margin: 5px;
+}
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+label {
+    margin: 10px;
+}
